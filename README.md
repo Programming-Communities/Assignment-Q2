@@ -1,5 +1,5 @@
 # All Assigment 
-````
+
 ## Assignment 01: Understanding OpenAI Chat Completion API Parameters
 ### Chat Bot
 
