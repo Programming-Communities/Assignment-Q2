@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+__pycache__/
+env/
+.env
+.google-adc
+
+# Testing
+.coverage
+
+# pyenv
+.python-version
+
+.DS_Store
+**/.DS_Store

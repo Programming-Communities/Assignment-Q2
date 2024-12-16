@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#1E90FF"  # Blue color for primary components
+backgroundColor = "#0e1117"  # Background color
+secondaryBackgroundColor = "#262730"  # Secondary background color
+textColor = "#ffffff"  # Text color
+font = "sans serif"
+
