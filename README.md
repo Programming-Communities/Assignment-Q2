@@ -6,8 +6,8 @@
 2.  Assignment 02: Understanding Key API and Software Concepts
 ### Key API Software Concepts
 
-
 3. Assignment 03: Utilizing Gemini API for Image Prompts
+### Gemini-API-Image
 
 4. Assignment 04: Implementing Multi-Provider LLM Integration Using aisuite
 ### Multi-LLM-Integration
