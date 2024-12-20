@@ -4,7 +4,7 @@ Here's a simplified and easy-to-understand version of your README.md file. The l
 
 # Assignment 02: Understanding Key API and Software Concepts  
 
-**Submitted By:** Hassan Ali Khan  
+**Submitted By:** Aamir  
 
 **Date:** 21 December 2024  
 
